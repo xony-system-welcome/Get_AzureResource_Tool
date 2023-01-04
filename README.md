@@ -1,0 +1,2 @@
+# Get_AzureResource_Tool
+Get_AzureResource_Tool
